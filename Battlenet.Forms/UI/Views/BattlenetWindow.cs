@@ -19,6 +19,7 @@ namespace Battlenet.Forms.UI.Views
         {
             if (DataContext is ILoadable loadable)
             {
+                // hi
                 loadable.OnLoaded();
             }
         }
