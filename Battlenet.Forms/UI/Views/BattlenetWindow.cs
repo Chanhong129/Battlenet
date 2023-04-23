@@ -20,7 +20,7 @@ namespace Battlenet.Forms.UI.Views
         {
             if (DataContext is ILoadable loadable)
             {
-                // hi
+                // hi here is remote
                 loadable.OnLoaded();
                 Console.WriteLine();
             }
