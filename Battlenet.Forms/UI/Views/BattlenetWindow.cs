@@ -1,4 +1,5 @@
 ﻿using Battlenet.Core.Interfaces;
+using System;
 using System.Windows;
 
 namespace Battlenet.Forms.UI.Views
@@ -21,6 +22,7 @@ namespace Battlenet.Forms.UI.Views
             {
                 // hi
                 loadable.OnLoaded();
+                Console.WriteLine();
             }
         }
     }
