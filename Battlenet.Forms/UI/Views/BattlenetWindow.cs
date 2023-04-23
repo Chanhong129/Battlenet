@@ -20,11 +20,8 @@ namespace Battlenet.Forms.UI.Views
         {
             if (DataContext is ILoadable loadable)
             {
-<<<<<<< HEAD
                 // hi here is remote no modified
-=======
                 // hi here is remote 
->>>>>>> d1f143d773b66794ca7e2f204905b2bd6386d749
                 loadable.OnLoaded();
                 Console.WriteLine();
             }
