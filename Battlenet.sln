@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlenet", "Battlenet\Battlenet.csproj", "{3408A68C-F535-41A4-9E7F-FAA3DA5EEB6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Based", "Based", "{DDCDCD18-8889-41E0-B23D-8A420959944E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Partial", "Partial", "{A5C22E33-3ABF-4894-A967-3579B2AA874D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Studio", "Studio", "{5D5DC822-62AF-46BA-9608-F286E07E0982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlenet.Forms", "Battlenet.Forms\Battlenet.Forms.csproj", "{517C3F42-E7CE-4448-9D70-053217ED4661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlenet.Core", "Battlenet.Core\Battlenet.Core.csproj", "{9718D18C-CFB1-4F35-ADE5-27CE8C0F3CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlenet.Login", "Battlenet.Login\Battlenet.Login.csproj", "{4BCC2525-7DCF-49D8-B4BE-7F11D17EBE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3408A68C-F535-41A4-9E7F-FAA3DA5EEB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3408A68C-F535-41A4-9E7F-FAA3DA5EEB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3408A68C-F535-41A4-9E7F-FAA3DA5EEB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3408A68C-F535-41A4-9E7F-FAA3DA5EEB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517C3F42-E7CE-4448-9D70-053217ED4661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517C3F42-E7CE-4448-9D70-053217ED4661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517C3F42-E7CE-4448-9D70-053217ED4661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517C3F42-E7CE-4448-9D70-053217ED4661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9718D18C-CFB1-4F35-ADE5-27CE8C0F3CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9718D18C-CFB1-4F35-ADE5-27CE8C0F3CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9718D18C-CFB1-4F35-ADE5-27CE8C0F3CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9718D18C-CFB1-4F35-ADE5-27CE8C0F3CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCC2525-7DCF-49D8-B4BE-7F11D17EBE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCC2525-7DCF-49D8-B4BE-7F11D17EBE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCC2525-7DCF-49D8-B4BE-7F11D17EBE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCC2525-7DCF-49D8-B4BE-7F11D17EBE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3408A68C-F535-41A4-9E7F-FAA3DA5EEB6F} = {5D5DC822-62AF-46BA-9608-F286E07E0982}
+		{517C3F42-E7CE-4448-9D70-053217ED4661} = {A5C22E33-3ABF-4894-A967-3579B2AA874D}
+		{9718D18C-CFB1-4F35-ADE5-27CE8C0F3CF8} = {DDCDCD18-8889-41E0-B23D-8A420959944E}
+		{4BCC2525-7DCF-49D8-B4BE-7F11D17EBE29} = {A5C22E33-3ABF-4894-A967-3579B2AA874D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8333F6A3-FF6E-4658-BA7B-38B9639E5F08}
+	EndGlobalSection
+EndGlobal

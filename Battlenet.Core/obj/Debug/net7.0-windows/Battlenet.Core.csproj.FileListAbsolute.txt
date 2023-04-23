@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\bin\Debug\net7.0-windows\Battlenet.Core.deps.json
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\bin\Debug\net7.0-windows\Battlenet.Core.dll
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\bin\Debug\net7.0-windows\Battlenet.Core.pdb
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\Battlenet.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\Battlenet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\Battlenet.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\Battlenet.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\Battlenet.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\Battlenet.Core.dll
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\refint\Battlenet.Core.dll
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\Battlenet.Core.pdb
+C:\Users\Administrator\source\repos\Battlenet\src\Battlenet\Battlenet.Core\obj\Debug\net7.0-windows\ref\Battlenet.Core.dll

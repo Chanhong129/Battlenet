@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="App.cs~RF368d338d.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="prism.unity" Version="8.1.97" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Battlenet.Core\Battlenet.Core.csproj" />
+    <ProjectReference Include="..\Battlenet.Forms\Battlenet.Forms.csproj" />
+    <ProjectReference Include="..\Battlenet.Login\Battlenet.Login.csproj" />
+  </ItemGroup>
+
+</Project>
